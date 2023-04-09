@@ -6,4 +6,5 @@ title: "- Armée Européenne"
 
 [[__MOC]]
 
-[[2022-12-17 Le général Burkhard tord le cou à l’idée d’une armée européenne]]
+[[2022-12-17 Le général Burkhard tord le cou à l’idée d’une armée européenne]] 
+  
