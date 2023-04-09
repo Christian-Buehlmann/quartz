@@ -1,0 +1,3 @@
+[[- InternetScrap]]
+
+[[__MOC]]

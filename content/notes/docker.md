@@ -26,7 +26,6 @@ services:
       - HUGO_BASEURL=http://localhost
       - HUGO_PORT=1313
       - HUGO_APPENDPORT=true
-      - HUGO_LIVERELOADPORT=-1
 ```
 
 Then run with: `docker-compose up -d` in the same directory as your `docker-compose.yml` file.

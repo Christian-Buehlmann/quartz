@@ -1,0 +1,67 @@
+[[ReadItLater]] [[Article]]
+
+# [How Would a Chinese Invasion of Taiwan Play Out?](https://foreignpolicy.com/2022/12/23/taiwan-invasion-china-us-military-war-game/)
+
+SHRIVENHAM, England—It’s 2025. China has blockaded Taiwan. Aircraft carriers, submarines, and war planes circle the island, keeping out all but humanitarian aid. U.S., Taiwanese, and allied battleships hover nearby, but tense talks have drawn a blank. Then a bloody invasion starts.
+
+How did it come to this?
+
+Maj. Tom Mouat watches with dismay. This is not how things usually play out. “We’ve got to a shooting war, which is really depressing,” he said. The British war-gaming expert has run this simulation before. Normally, when pitting Beijing’s ambitions of control against its democratic neighbor’s commitment to self-governance, conflict just “inches a bit closer to happening.” Then everybody backs off. But this time, as Mouat put it, there is a stream of “declarations coming out of China, and \[the war in\] Ukraine has changed the balance.” Even as the game’s role-players were making their moves on Nov. 9, Chinese President Xi Jinping, in the real world, [told](https://www.theguardian.com/world/2022/nov/09/xi-jinping-tells-chinas-army-to-focus-on-preparation-for-war) his army chiefs to “comprehensively strengthen military training in preparation for war”—words seen as a warning for Taiwan and the United States, which helps arm Taipei and maintains a “keep them guessing” policy about its willingness to come to the island’s defense.
+
+The major, dressed in civilian clothing, sits in a long hall lined with tanks, a drone, and a fighter jet, which are part of a training exhibit at the Defence Academy of the United Kingdom, where he works. Before him, folding tables hold a pastel gaming map of East Asia dotted with wooden discs bearing icons of ships, planes, troops, nukes, money, spies, and one—printed with a blue man at a lectern—that he keeps calling “waffly diplomatic action.”
+
+Around the table, U.K. and U.S. military and academic types—who for security reasons must remain anonymous—are playing the parts of China’s leadership, China’s military, and the governments of the United States, Taiwan, Australia, and Japan. They have set their secret policy goals and one by one propose anything they want to happen in pursuit of their countries’ aims—anything, that is, they can make a convincing argument for. The players then discuss each action. If they disagree on its plausibility, Mouat—as the game facilitator—crowdsources a judgment on its chance of success from both the other players and expert observers around the table who choose from among 10 percent to 90 percent probability cards. He then throws out the red and green casino dice, representing chance. What is deemed to be unlikely might still succeed if the numbers rolled are high enough (or vice versa). Success or failure is calculated with a probability curve combining the numbers on the dice and the average of the percentages on the cards.
+
+Mouat, who has developed war games since 1988, has refined his rules over time based on academic research about crowdsourcing, role-playing, and prediction. A normal game, he said, takes around three hours and should not run for longer than a day. “The cone of probabilities gets wider the longer you play, so the chances of getting a good predictive outcome are less,” he said.
+
+So-called matrix board games like this are used regularly by diplomats, policy analysts, and senior military officials not only to discover how conflicts might unfold but also to “put a face to things they know are true but are reluctant to accept,” said Rand Corporation war games expert David A. Shlapak. “Having them understand their own unspoken beliefs about the world is tremendously valuable.” Such games have helped parse many a global dilemma and are [credited](https://time.com/5772665/uboat-wargames/), for example, with a key role in the defeat of the German U-boats in World War II.
+
+One of the earliest known war games was designed in ancient China, often credited to the general Sun Tzu. By the 17th century, complex war games had been developed, such as a “king’s game” that was widely used by the militaries of the German states. In the 19th and 20th centuries, as growing armies made full-scale mobilization practice impractical or provocative, more nations started using war games to help simulate deployment. War games have since grown apace, for both strategy and leisure. Mouat runs classified games for decision-makers in Britain and other countries; dedicated aficionados also play unclassified versions that Mouat has posted online, along with a 52-page practical guide.
+
+Our game, which used unclassified briefing materials due to my presence as a reporter, is part of a training series for military strategists honing their analytical skills. Mouat described the exercise as “qualitative, not quantitative, less single-shot kill probability and more: How effective was \[Ukrainian President Volodymyr\] Zelensky’s speech and Donald Trump’s tweet?” He has been in demand of late—especially since U.K. Defence Minister Ben Wallace, Mouat said, has been encouraging military specialists, policy officials, and parliamentarians to use the games to “do more thinking and understanding” and act less on “knee-jerk reactions.”
+
+---
+
+Tonight’s game begins in the present and opens with the Chinese government player pushing a policy of unification through economic pressure. Beijing offers Taipei subsidized food supplies to undercut U.S. interests and gain leverage over the island’s economy. None of the players object, all regarding the action as routine, so Beijing’s move goes ahead. But the island is unfazed. In its turn, Taiwan extends its compulsory military service period to boost its forces, which are massively outgunned by China. Washington sends an economic delegation to Beijing, hoping to defuse tensions, but the players and expert observers groan. The probability cards come out, setting a 30 percent chance of success, and a low dice roll shows the U.S. overture fails to help.
+
+A year later in sped-up game time, the United States boosts military naval exercises with Australia, Japan, and other countries off the coast of the Philippines. In response, China puts on a big show of force around the Taiwan Strait, as it did for U.S. House Speaker Nancy Pelosi’s visit this past August. Lots of wooden naval and aircraft game pieces are flung out on the board to represent this display.
+
+Mouat declares the game has now jumped another year ahead. China, rebuffed in its diplomatic overtures to Taiwan, begins a stealth occupation of the Kinmen islands. Just off China’s coast, these fortified islets are a favorite destination for ferry-borne Chinese tourists, but the latest batch turn out to be out-of-uniform soldiers, who, without firing a shot, occupy this remote bit of Taiwan. The United States announces a dispatch of new high-tech arms to Taiwan. Taiwan defends Kinmen and its other far-flung, front-line coastal islets with sea mines. China reacts forcefully with an air-and-naval blockade, cutting off Taiwan’s 23.5 million residents from the outside world. So begins a Cuban missile crisis-style standoff, with only humanitarian aid allowed in.
+
+By now it’s early 2025. China, the United States, and Taiwan meet for negotiations, which quickly falter—with China insisting Taiwan accept Chinese control, and Taiwan standing firm in refusing this involuntary unification. Still no shots have been fired, but China masses invasion forces on its coast, a process that takes at least a month.
+
+Will they really invade? The players debate this point, keeping in character:
+
+China: “We are open to negotiations.”
+
+Taiwan: “We just tried negotiating and there seemed to be an impasse.”
+
+China: “We are saying your government has been entirely unwilling to open dialogue \[as we define it\]; ergo, we are going to talk to your government directly.”
+
+Taiwan: “Untrue.”
+
+China: “Then my policy action is to order our troops … to put boots on the ground, to not shoot civilians, make a clear beeline toward the Taiwan capital, and then take the ruling government and parliament hostage.”
+
+Taiwan: “That is not going to work. We are going to be able to pick them up and detect them coming in quite easily. Our key government figures are probably in a bunker at this point.”
+
+Invading Taiwan is much more difficult than invading Ukraine. Separated from the mainland by a 160-kilometer strait where rough weather makes invasion nearly impossible for all but a few months a year, Taiwan is defended on most sides by forbidding coastal cliffs. The most feasible approach is via heavily fortified low-lying lands on the west, where treacherous mudflats would make amphibious crossing under fire a nightmare for attackers. The conventional wisdom is that China, even with its 2 million-strong military and the largest navy in the world, does not yet have the capacity or adequate amphibious forces to push through an invasion in which the United States backs up Taiwan. But in this game, China is undeterred.
+
+The Chinese government player believes the time is right. The Chinese military makes a chilling announcement: “We ask \[the people of Taiwan\] if they would be willing to lose absolutely everything \[rather than\] come to a mutually agreeable solution.” With negotiations faltering, China flies in special forces to capture the elected Taiwanese leaders in Taipei (much as Russia tried to do in Kyiv early in its invasion). Now bloodshed begins. Pressing on to a full invasion risks massive Chinese troop losses, greater catastrophe in Taiwan, and an upheaval in the global balance of power. But still the United States is dithering, unwilling to commit forces, and insists on taking the conflict to the United Nations, which consumes another week.
+
+Here the game ends.
+
+How the fighting and its shock waves pan out are for another game format—“a Taiwan invasion game” using different rules, Mouat said.
+
+In the debriefing, the player representing China’s government said that she played aggressively but contended it had been “a very leveled escalation,” since Beijing had let in humanitarian aid and attempted to “starve them out” before attacking. But why did the United States fail to respond to the invasion in time? The U.S. player cited lack of global support for Taiwan’s legitimacy and post-Ukraine war fatigue. Could China or the United States really risk going without Taiwan’s world-leading microchip manufacturing? Why didn’t the United States forcefully break the blockade, imposing sanctions on China when it had a chance? Could that have persuaded China to back down? Everyone went away mulling such questions.
+
+---
+
+According to Mouat, matrix games can get things right 60 percent of the time, better than many individual analysts, but the ultimate goal is to stimulate “intelligent conversations.”
+
+Experts consulted by *Foreign Policy* before the game agreed that an invasion is possible, even likely, but disagreed on when it might take place. “Given Xi Jinping’s track record, the war could start at any time, and it could unfold in ways that surprise us all,” said analyst Ian Easton, the author of *The Chinese Invasion Threat*. For Easton, on top of the Chinese military buildup, Beijing’s firing of ballistic missiles near Taiwan in August was “destabilizing behavior” with no basis in international law and “therefore must be regarded as a signal of hostile intent.”
+
+But Shlapak, also an East Asia specialist, dismissed recent U.S. military [predictions](https://news.usni.org/2021/06/23/milley-china-wants-capability-to-take-taiwan-by-2027-sees-no-near-term-intent-to-invade) of an invasion by 2027. These “confuse capability with intent,” he said. “China is certainly increasing its capability to take actions against Taiwan, but they recognize the inherent riskiness \[of invasion\].” He dismissed China’s “recent hardening of language” as “a reflection of their perception of tightening U.S.-Taiwan relations.” The status quo, he believes, will not change for the next 10 years or so, unless there are significant changes in Taiwan’s or China’s stance.
+
+Steve Tsang, director of the University of London’s China Institute, had a similar prediction. In “bean-counting terms,” China will have the capacity to invade “roughly by 2027,” Tsang said, but it will still lack the overall organizational strength to carry out a full-scale invasion. “But when the point finally comes that Xi Jinping feels that he can do so at an acceptable level of cost, then he will do so,” he said. Tsang expects Xi to stay in power for life and to act against Taiwan in 10 to 20 years. An invasion, however, is “the last option,” he said. Beijing’s preferred solution is for the Taiwanese government to surrender so that Washington is unlikely to interfere, he said, though he expects Taiwan to bolster its defense and fight back—as is “normal for a vibrant democracy.”
+
+In Tsang’s view, Beijing’s rhetoric serves to make people believe its behavior is about Chinese unification, when it is really about a bigger goal: to “bankrupt the American Indo-Pacific strategy” and make Taiwan a stronghold in China’s growing domination of the Pacific. For China, Tsang said, control of Taiwan is a crucial step in the “dream of national rejuvenation.”

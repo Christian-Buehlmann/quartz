@@ -1,0 +1,6 @@
+---
+title: "Cette carte en relief à l’échelle 1300 000 est une réduction de la Carte générale de la Suisse à l’échelle 1250 000."
+---
+
+## Cette carte en relief à l’échelle 1:300 000 est une réduction de la « Carte générale de la Suisse » à l’échelle 1:250 000. 
+> Cette carte en relief à l’échelle 1:300 000 est une réduction de la « Carte générale de la Suisse » à l’échelle 1:250 000. La mention « Eidg. Landestopographie » témoigne de son origine officielle. Les frontières avec l’étranger, les positions militaires, le réduit du Gothard et les forteresses de Sargans et de Saint-Maurice sont grossièrement indiqués à la main sur une grande surface de la carte à l’aide de crayons de différentes couleurs. Au nord de la ligne est-ouest du réduit, de nombreux traits de différentes couleurs marquent les lignes de défense, de sortie et de repli présumées des troupes mobiles dans le réduit, après la rupture des positions des forces avancées suisses par l’ennemi. Selon une note disponible à Chartwell House, le général Guisan a remis la carte à Churchill pendant la rencontre et a donc également dû rapporter en détail les positions de défense et les capacités militaires de la Suisse.

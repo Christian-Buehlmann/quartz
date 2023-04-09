@@ -1,3 +1,4 @@
 ---
-title: "{{title}}"
+title: <% tp.file.title %>
 ---
+
